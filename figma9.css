@@ -1,0 +1,85 @@
+body{
+    background-color: rgba(0, 0, 0, 0.877);
+}
+header{
+    display: flex;
+    align-items: center;
+    height: 80px;
+    box-shadow: 0 0 10px white 0;
+}
+.main{
+    display: flex;
+    /* justify-content: space-between; */
+    gap: 300%;
+    align-items: center;
+    
+}
+.mnu{
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+   
+}
+.main input{
+    background-color: transparent;
+    border: none;
+}
+.fgm1{
+    display: flex;
+   
+}
+.fgm2{
+    /* top: 80px; */
+    width: 25%;
+    height: 1200px;
+    background-color: rgba(0, 0, 0, 0.473);
+}
+.fgm3{
+    width:75%;
+    /* padding-top: 100px; */
+    height: 1200px;
+    background-color: rgba(0, 0, 0, 0.322);
+}
+.fgm4{
+    padding-left: 15px;
+    /* padding-top: 10px; */
+    flex-direction: column;
+    color: aliceblue;
+}
+#fgm5{
+    color: yellow;
+}
+.fgm6{
+    color: aliceblue;
+    padding-left: 5px;
+}
+.fgm7{
+    background-color: rgba(0, 195, 255, 0.26);
+    width: 200px;
+    height: 50px;
+    text-align: center;
+    border-radius: 5px;
+    /* padding-left: 5px; */
+}
+.fgm8{
+    display: flex;
+    gap: 50px;
+}
+.fgm9{
+    display: flex;
+    justify-content: space-between;
+}
+h3{
+    color: aliceblue;
+}
+.fgm12{
+    padding-right: 5px;
+}
+.fgm11{
+    color: aliceblue;
+}
+.fgm13{
+    background-color: blue;
+    width: auto;
+    height: 30px;
+}

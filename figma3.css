@@ -1,0 +1,85 @@
+.main{
+    display: flex;
+}
+.mnu{
+    display: flex;
+}
+.fgm3{
+    position: absolute;
+left: 58.82%;
+right: 18.4%;
+top: 12.3%;
+bottom: 74.6%;
+}
+h1{
+    color: white;
+    width: 145px;
+height: 40px;
+left: 938px;
+top: 250px;
+position: absolute;
+font-weight: 700;
+font-size: 30px;
+align-items: center;
+}
+.fgm4{
+    position: absolute;
+width: 400px;
+height: 25px;
+left: 810px;
+top: 437px;
+
+background: rgba(252, 252, 252, 0.08);
+border-radius: 8px;
+display: flex;
+color: aliceblue;
+}
+.fgm5{
+    position: absolute;
+width: 400px;
+height: 25px;
+left: 810px;
+top: 500px;
+color: aliceblue;
+
+background: rgba(252, 252, 252, 0.08);
+border-radius: 8px;
+display: flex;
+}
+.fgm6{
+    position: absolute;
+    width: 400px;
+    height: 25px;
+    left: 810px;
+    top: 560px;
+    color: aliceblue;
+    background: rgba(252, 252, 252, 0.08);
+    border-radius: 8px;
+    display: flex;
+}
+button{
+    position: absolute;
+    color: aliceblue;
+width: 319px;
+height: 44px;
+left: 851px;
+top: 869px;
+
+background: #BF1415;
+border-radius: 8px;
+gap: 4px;
+}
+
+.fgm6 h4{
+    display: flex;
+    /* width: px; */
+    height: 20px;
+    color: aliceblue;
+    padding-top: 85%;
+    /* display: flex; */
+    padding-left: 25%;
+    flex-direction: row;
+}
+.fgm6 h4 span{
+    color: #BF1415;
+}
